@@ -1,2 +1,5 @@
 # helixJumpClone
-for android
+
+For android.
+
+Made using `Unity`.
